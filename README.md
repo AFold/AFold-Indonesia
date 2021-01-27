@@ -18,6 +18,8 @@ Sumber terbuka pembelajaran online. Gratis dan dapat diakses siapapun.
 
 [Typora](https://typora.io/#windows)
 
+[Github Desktop](https://desktop.github.com/)
+
 
 
 #### Mengubah .docx atau lainnya ke .md
